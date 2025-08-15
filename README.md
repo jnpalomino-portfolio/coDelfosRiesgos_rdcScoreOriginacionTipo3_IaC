@@ -1,0 +1,2 @@
+# coDelfosRiesgos_rdcScoreOriginacionTipo3_IaC
+Backup/prueba de repositorio coDelfosRiesgos_rdcScoreOriginacionTipo3_IaC
